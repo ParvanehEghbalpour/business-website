@@ -289,14 +289,14 @@ html {
 }
 
 .slider__btn--left {
-  left: 45%;
+  left: 43.3%;
   transform: translate(-50%, -50%);
   border-top-left-radius: 10%;
   border-bottom-left-radius: 10%;
 }
 
 .slider__btn--right {
-  right: 49.5%;
+  right: 52.5%;
   border-top-right-radius: 10%;
   border-bottom-right-radius: 10%;
   transform: translate(50%, -50%);
