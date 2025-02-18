@@ -10,7 +10,7 @@
  ....
 
 Demo
-Check out the live demo of the application at business.liara.run
+Check out the live demo of the application at https://business.liara.run
 
 #To set up the project locally:
 Access the application by opening http://localhost:5500 in your browser.
